@@ -7,7 +7,7 @@
     <title>Calculator</title>
 </head>
 <body>
-    <h1>Calculator</h1>
+    <h2>Calculator</h2>
     <br>
     <form>
         <input name="num1" placeholder="Please enter a number">
